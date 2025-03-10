@@ -6,3 +6,7 @@ const (
 	MyVar1_2 = 11222
 	MyVar1_3 = 11333
 )
+
+const (
+	MyVar2_1 = 2211
+)
