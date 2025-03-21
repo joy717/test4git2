@@ -11,4 +11,5 @@ const (
 	MyVar2_1 = 2211
 	MyVar2_2 = 2222
 	MyVar2_3 = 2233
+	MyVar2_4 = 2244
 )
